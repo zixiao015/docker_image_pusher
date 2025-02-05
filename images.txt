@@ -7,3 +7,4 @@ xhofe/alist:latest
 youshandefeiyang/allinone:latest
 cloudnas/clouddrive2:latest
 yuexuangu/allinone_format
+containrrr/watchtower
